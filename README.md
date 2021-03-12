@@ -8,9 +8,9 @@ Contents:
 3. Stacks
 4. Queues
 5. Bubble Sort 
-6. Quicksort
-7. Insertion Sort
-8. Merge Sort
+6. Insertion Sort
+7. Merge Sort
+
 
 Upcoming:
 Trees, Graphs practical Applications of DSA.
